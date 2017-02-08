@@ -13,5 +13,12 @@ namespace UmbracoSample1.Controllers
         {
             return View();
         }
+
+        public void Test()
+        {
+
+        }
+
+
     }
 }
